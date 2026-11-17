@@ -1,0 +1,3 @@
+<resources>
+    <string name="focus_accessibility_description">FocusX checks the foreground app package and compares it with your locally saved block list. It does not read screen text.</string>
+</resources>
